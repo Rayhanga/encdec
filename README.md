@@ -1,6 +1,6 @@
 # EncDec
 
-EncDec merupakan modul Python untuk mengenkirpsi Plain Text menggunakan teknin enkripsi simetris dengan kunci Alfanumerik.
+EncDec merupakan modul Python untuk mengenkirpsi Plain Text menggunakan teknik *Symmetric Encryption* dengan kunci Alfanumerik.
 
 ## Penggunaan
 
